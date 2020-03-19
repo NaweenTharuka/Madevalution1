@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IT18211238</string>
+    <string name="driverdetails">Driver Register</string>
+    <string name="name">Name</string>
+    <string name="licen">Licen No</string>
+    <string name="nic">Nic</string>
+    <string name="select">Include Your Clear Photo</string>
+    <string name="carvan">I Will Confirm That</string>
+    <string name="age">Age</string>
+    <string name="password">Password</string>
+    <string name="submit">Confirm</string>
+    <string name="edit">Reset</string>
+    <string name="editprofile">Edit Profile</string>
+    <string name="username">UserName</string>
+    <string name="search">Search</string>
+    <string name="signin">SignIn</string>
+    <string name="login">Login</string>
+    <string name="register">Register Now</string>
+
+
+</resources>
