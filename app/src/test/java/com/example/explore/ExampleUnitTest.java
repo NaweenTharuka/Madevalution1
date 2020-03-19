@@ -1,4 +1,4 @@
-package com.example.it18229912;
+package com.example.explore;
 
 import org.junit.Test;
 
